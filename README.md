@@ -20,6 +20,12 @@ It enables **data-driven clinical insights** through an interactive and structur
 > ⚠ Disclaimer: This dataset is generated using AI and demographic data; the results may not be fully accurate.
 
 
+## 🎨 Patient Diagnostic Dashboard
+
+![Dashboard 2](https://github.com/user-attachments/assets/85d108be-8974-499a-88b9-d22b85db93de)
+
+Dashboard PDF in the files section
+
 ## 🎯 Objectives
 
 The dashboard helps in:
