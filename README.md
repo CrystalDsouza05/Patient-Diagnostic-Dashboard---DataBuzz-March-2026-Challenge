@@ -1,5 +1,9 @@
 # 🏥 Patient Diagnostic Dashboard (Power BI)
 
+![Power BI](https://img.shields.io/badge/Tool-Power%20BI-yellow)
+![Analytics](https://img.shields.io/badge/Focus-Data%20Analytics-blue)
+![Status](https://img.shields.io/badge/Project-Dashboard-purple)
+
 ## 📌 Project Overview
 
 This project presents a **Patient Diagnostic Dashboard** designed to help healthcare professionals analyze patient health conditions, identify risks, and monitor trends over time.
